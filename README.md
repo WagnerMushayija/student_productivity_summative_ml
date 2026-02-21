@@ -47,7 +47,7 @@ This work aligns with my mission to make education fairer, especially in places 
 - `summative_intro_to_ml_student_productivity.ipynb` → Main notebook with all code, experiments, visualizations, and explanations
 - `student_productivity.csv` → The dataset (if allowed to upload; otherwise download from source)
 - `README.md` → This file
-- [Youtube Link][((https://youtu.be/WvypheV1W00))]
+- [Youtube Link][https://youtu.be/WvypheV1W00]
 
 ## How to Run
 
